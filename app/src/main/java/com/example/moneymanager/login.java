@@ -1,5 +1,5 @@
 package com.example.moneymanager;
 
-//public class login {
+public class login {
 
-//}
+}
