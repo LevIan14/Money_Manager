@@ -7,4 +7,5 @@ a<!-- Login Activity -->
     <string name="forgotPasswordLabel">Forgot Password?</string>
     <string name="loginLabel">Login</string>
     <string name="signUpLabel">Create New Account? Sign Up</string>
+
 </resources>
