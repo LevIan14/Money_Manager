@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Money Manager</string>
+a<!-- Login Activity -->
+    <string name="welcomeLabel">Welcome to\nMoney Manager!</string>
+    <string name="usernameLabel">Username</string>
+    <string name="passwordLabel">Password</string>
+    <string name="forgotPasswordLabel">Forgot Password?</string>
+    <string name="loginLabel">Login</string>
+    <string name="signUpLabel">Create New Account? Sign Up</string>
 </resources>
