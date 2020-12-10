@@ -1,11 +1,22 @@
 <resources>
     <string name="app_name">Money Manager</string>
-a<!-- Login Activity -->
+    a<!-- Login Activity -->
     <string name="welcomeLabel">Welcome to\nMoney Manager!</string>
     <string name="usernameLabel">Username</string>
     <string name="passwordLabel">Password</string>
     <string name="forgotPasswordLabel">Forgot Password?</string>
     <string name="loginLabel">Login</string>
     <string name="signUpLabel">Create New Account? Sign Up</string>
+    a<!--Register -->
+    <string name="personalInfoLabel">Personal Info</string>
+    <string name="accountDetaillLabel">Account Detail</string>
+    <string name="lblsignup">Sign Up</string>
+    <string name="lblFullname">Full Name</string>
+    <string name="genderLabel">Gender</string>
+    <string name="dobLabel">Date Of Birth</string>
+    <string name="countryLabel">Country</string>
+    a<!--Button-->
+    <string name="continueLabel">Continue</string>
+    <string name="lblLogin">Already Have An Account? Log in</string>
 
 </resources>
