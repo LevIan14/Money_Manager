@@ -17,6 +17,7 @@
     <string name="countryLabel">Country</string>
     a<!--Button-->
     <string name="continueLabel">Continue</string>
+    <string name="accountDetailLabel">Account Detail</string>
     <string name="lblLogin">Already Have An Account? Log in</string>
 
 </resources>
